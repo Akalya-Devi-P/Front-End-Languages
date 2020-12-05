@@ -1,0 +1,26 @@
+
+#container{
+  background-color: yellow;
+  padding:20px;
+  border: 2px solid black;
+  text-align: center;
+  width:750px;
+  margin:auto;
+  margin-top:100px;
+  height:200px;
+  border-radius:20px;
+}
+body{
+  background-color:pink;
+
+}
+#submit{
+  background:linear-gradient(130deg, pink, grey);
+  border-radius:20px;
+  width:150px;
+  font-weight:bold;
+}
+
+#submit:hover {
+  box-shadow: 0 0 20px 0 blue;
+}
